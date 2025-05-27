@@ -1,0 +1,22 @@
+.title{
+    background-color: rgb(255, 0, 157);
+    color: white;
+    text-align: center;
+    margin: 50px 800px 60px 840px;
+    padding: 10px;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+    background-color: blanchedalmond;
+    padding: 10px;
+    margin: 10px 800px 0px 800px;
+}
+
+*{
+    font-family: Tahoma, sans-serif;
+}
